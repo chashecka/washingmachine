@@ -1,0 +1,70 @@
+body{
+    background-color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif 
+}
+
+.j{
+    text-align: center;
+}
+
+.b{
+    width: 145px;
+}
+
+.h{
+    text-align: right;
+}
+
+.popa{
+    float: left;
+    width: 170px;
+    text-align: center;
+    padding: 10px;
+    border: 5px double red;
+}
+
+.jopa{
+    float: left;
+    width: 170px;
+    height: 285px;
+    text-align: center;
+    padding: 10px;
+    border: 5px double red;
+}
+
+.d{
+    width: 200px;
+}
+
+.p{
+    width: 140px;
+}
+
+.g{
+    width: 145px;
+}
+
+.c{
+    width: 123px;
+}
+
+img{
+    width: 160px;
+}
+
+h1{   
+    color: white;
+    background-color: black;
+    text-align: center;
+    margin: 5px;
+    padding: 10px;
+}
+
+p:hover {
+    color: black;
+}
+
+p{
+    color: grey;
+    
+}
